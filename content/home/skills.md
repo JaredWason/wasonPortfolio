@@ -33,8 +33,17 @@ feature:
   name: JavaScript
 - icon: cogs
   icon_pack: fas
-  name: REST API
-  
+  name: Intergrations
+- icon: arrow-alt-circle-up
+  icon_pack: far
+  name: System Upgrades
+- icon: database
+  icon_pack: fas
+  name: Microsoft SQL Server
+- icon: microsoft
+  icon_pack: fab
+  name: Microsoft PowerBi
+     
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

@@ -28,14 +28,17 @@ experience:
     location: 
     date_start: '2019-02-01'
     date_end: ''
-    description: |2-   
-        * Created Catalog Items, Record Producers, and Workflows that help streamline processes in the organization. 
-        * Work on Service Portal roll out (ability search incidents, remove bread crumbs). 
-        * Setup domains for customers. 
-        * Incident, Demand, Project management enhancements based on customer needs. 
-        * Created dashboards and reports.
-        * Updated instances to new major releases, cloned over dev and test instances quarterly. 
-        * Lead of ServiceNow team, trained two ServiceNow system administrator's. 
+    description: |2-    
+        * Create numerous Catalog Items, Record Producers, Workflows, and Approvals that help streamline processes in the organization.  
+        * Perform core configuration tasks including system policies, business rules, client scripts, UI policies, and UI actions. 
+        * Experience working in a domain-separated environment. Setup new departments with their own domain. 
+        * Lead of ServiceNow team and trained two ServiceNow system administrators.  
+        * Experience in configuring the following applications based on customer requirements, Incident, Demand, Project, Change, Requests, Asset Management, and Knowledge.  
+        * Create dashboards, reports, and notifications to keep users and customers well informed.  
+        * Planned and coordinated platform upgrades to new major releases.  
+        * Import data into the instance using import sets, transport maps, and inbound actions with custom scripts. 
+        * Sync AD and ServiceNow users via LDAP server connections. 
+        * Create documentation and training videos when rolling out new features or changes for end-users. 
         
   - title: Systems Analyst Programmer 1
     company: Monterey County Information Technology

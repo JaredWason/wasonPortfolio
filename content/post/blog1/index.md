@@ -1,5 +1,5 @@
 ---
-title: TEST
+title: BLOG 1
 subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
 # Summary for listings and search engines
@@ -48,6 +48,10 @@ categories:
 3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+
+{{< figure src="http://localhost:1313/post/blog1/me_smaller.png" title="Me, smaller." >}}
+
+{{< figure src="http://jaredwason.github.io/post/blog1/tsm_logo.png" title="Testing image src on github." >}}
 
 ## Get Started
 
